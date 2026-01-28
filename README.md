@@ -4,7 +4,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live](https://RiteshSharma.vercel.app/)
+🔗 [View Portfolio Live](https://ritesh-s-portfolio-website.vercel.app/)
 
 ## 🛠️ Tech Stack
 
