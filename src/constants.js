@@ -44,6 +44,7 @@ import schoolLogo from "./assets/education_logo/vps_logo.png";
 import crmLogo from "./assets/work_logo/crm_logo.png";
 import restaurantLogo from "./assets/work_logo/restaurant_logo.png";
 import jewelleryLogo from "./assets/work_logo/jewellry_logo.png";
+import spotifyLogo from "./assets/work_logo/Spotify_logo.png";
 
 export const SkillsInfo = [
   {
@@ -223,6 +224,21 @@ export const projects = [
     ],
     github: "https://github.com/graphuraselfprojects/Restaurants-System.git",
     webapp: "https://restaurants-system.vercel.app/",
+
+  },
+  {
+    id: 4,
+    title: " Spotify Clone (Backend)",
+    description:
+      "A Node.js + Express backend project inspired by Spotify. This project focuses on building a professional backend architecture with authentication, role-based authorization, and media handling. It was built as my first structured backend project while learning the MERN stack, where I implemented real-world backend concepts like controllers, middleware, database integration, and cloud media storage.",
+    image: spotifyLogo,
+    tags: [
+      
+      "Node.js", "Express.js", "MongoDB", "JWT", "Imagekit"
+
+    ],
+    github: "https://github.com/ri00099/Spotify-Backend",
+    webapp: "https://github.com/ri00099/Spotify-Backend",
 
   },
 ];
